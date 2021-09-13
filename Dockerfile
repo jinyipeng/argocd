@@ -1,1 +1,1 @@
-FROM argoproj/argocd:v1.7.2
+FROM quay.io/argoproj/argocd:v2.1.1
